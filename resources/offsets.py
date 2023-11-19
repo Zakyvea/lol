@@ -126,9 +126,6 @@ ObjMagicPen: int = 0X1270
 ObjAdditionalApMulti: int = 0x12E0
 ObjManaRegen: int = 0x11E0
 ObjHealthRegen: int = 0X1390
-
-
-# Ai Manager
 oObjAiManager: int = 0x2E14
 oAiManagerTargetPos: int = 0x10
 oAiManagerStartPath: int = 0x1CC
